@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+# JUEGO - SCAPE SPACE 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+ENLACE DEL JUEGO https://panfuenco.itch.io/scape-space
